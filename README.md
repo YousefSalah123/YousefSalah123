@@ -1,97 +1,157 @@
-<h1 align="center">Hi 👋, I'm Yousef Salah Nage</h1>
-<h3 align="center">Computer Science Student | Future ML Engineer</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="mailto:yousefsalahnage@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yousef-salah-123/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<h1 align="center">
+  Hey 👋, I'm Yousef Salah Nage
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### 👨‍💻 About Me
+
+[cite_start]I am a motivated Computer Science student at Cairo University specializing in Machine Learning and Artificial Intelligence[cite: 7]. [cite_start]My expertise lies in Python, C++, and Java, and I have hands-on experience building end-to-end ML projects—from data preprocessing and feature engineering to model training and deployment[cite: 8]. [cite_start]With a strong foundation in mathematics (linear algebra, calculus, probability) [cite: 9][cite_start], I am passionate about leveraging data to drive real-world impact[cite: 10]. [cite_start]I am actively seeking opportunities like internships and research collaborations to apply my technical skills and contribute to innovative AI solutions[cite: 10].
 
 ---
 
-## 🔗 Connect with me
-<p align="left">
-  <a href="mailto:yousefsalahnage@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yousef-salah-nage-a3583636b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YousefSalah123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.behance.net/f183"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-</p>
+### 🛠️ My Skills
+
+#### 💻 Programming & Concepts
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-orange?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-red?style=for-the-badge)
+
+#### 📊 Data Analysis & Machine Learning
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+
+#### ⚙️ Tools & Other Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
 
-## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 My Projects
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Credit Card Default Prediction</h3>
+  <div align="center">
+    [cite_start]<p>Developed a full-stack machine learning pipeline to predict credit card defaults using a dataset of 30,000+ clients. [cite: 20] [cite_start]The project involved extensive data cleaning, feature engineering, and model tuning to prioritize recall. [cite: 21, 23]</p>
+    <p>
+      <a href="https://github.com/Yousef-Salah123/Credit-Card-Default-Prediction" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+      </a>
+      <a href="https://yousef-salah123-credit-card-default-prediction-app-q60q2h.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
+      </a>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
+    </p>
+  </div>
+</td>
+<td width="50%">
+  <h3 align="center">NYC Taxi Trip Duration Prediction</h3>
+  <div align="center">
+    [cite_start]<p>Built an end-to-end regression pipeline to predict NYC taxi trip durations. [cite: 30] [cite_start]Engineered features from timestamps and GPS coordinates, including using the Haversine formula for distance calculation. [cite: 32]</p>
+    <p>
+      <a href="https://github.com/Yousef-Salah123/NYC-Taxi-Trip-Duration-Prediction" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+      </a>
+      <a href="https://yousef-salah123-nyc-taxi-trip-duration-prediction-app-v3kjnp.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
+      </a>
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
+    </p>
+  </div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+### 🎓 Education
 
-### 🏦 Credit Card Default Prediction  
-- **Repo:** [GitHub](https://github.com/YousefSalah123/Credit-Card-Default-Prediction-using-Logistic-Regression)  
-- **Live Demo:** [Streamlit App](https://credit-card-default-prediction-using-logistic-regression-skw6g.streamlit.app/)  
-- Built an end-to-end ML pipeline (EDA, feature engineering, model training).  
-- Achieved ~73% accuracy with ~65% recall (prioritized recall).  
-- Deployed using Streamlit for real-time inference.
+- **Faculty of Science, Cairo University** | [cite_start]Oct 2023 - Oct 2027 [cite: 12]
+  - [cite_start]Bachelor's Degree in Computer Science [cite: 13]
+  - [cite_start]Currently in 3rd Year, ranked 1st academically in the department [cite: 14, 16]
+  - [cite_start]GPA: 3.807/5.0 [cite: 15]
 
 ---
 
-### 🚖 NYC Taxi Trip Duration Prediction  
-- **Repo:** [GitHub](https://github.com/YousefSalah123/NYC-Taxi-Duration-Prediction)  
-- **Live Demo:** [Streamlit App](https://nyc-taxi-duration-prediction-93j4vbvdjkwp6ds58yv92g.streamlit.app/)  
-- Regression pipeline predicting trip durations using engineered time & distance features.  
-- Trained Linear Regression model with log-transformed duration.  
-- Visualized results with MAE, RMSE, and R² metrics.
+### 📜 Certificates
+
+- [cite_start]**Supervised Machine Learning: Regression and Classification** [cite: 41]
+  - [cite_start]*Stanford University & DeepLearning.AI (Coursera)* - Issued Jul 2025 [cite: 42]
+  - `[Verified Certificate]` (Link to your certificate)
+
+- [cite_start]**Introducing Generative AI with AWS** [cite: 47]
+  - [cite_start]*Udacity & Amazon Web Services (AWS)* - Issued Jul 2025 [cite: 48]
+  - `[Verified Certificate]` (Link to your certificate)
+
+- [cite_start]**Machine Learning Foundations** [cite: 52]
+  - [cite_start]*Amazon Web Services (AWS Educate)* - Issued 2025 [cite: 53]
+  - `[Verified Certificate]` (Link to your certificate)
 
 ---
 
-## 🎓 Education
-🎓 **Cairo University – B.Sc. in Computer Science** (2023–2027)  
-- GPA: **3.807 / 5.0**  
-- Ranked **1st** in Computer Science Department  
+### 🌐 Languages
 
-🏫 **Motafawkeen Ain Shams Secondary School** (2020–2023)  
-- Thanaweya Amma  
+- [cite_start]**Arabic:** Native [cite: 72]
+- [cite_start]**English:** B2 (Upper-Intermediate) [cite: 73]
+- [cite_start]**German:** A1 (Elementary) [cite: 74]
 
 ---
 
-## 🏅 Certificates
-- **Supervised Machine Learning: Regression and Classification** — Stanford / DeepLearning.AI (Coursera)  
-  🔗 [Verify](https://coursera.org/verify/7O3FE6LNPLHY)  
+### 🤝 Volunteering
 
-- **Introducing Generative AI with AWS** — Udacity + AWS  
-  🔗 [Certificate](https://www.udacity.com/certificate/e/7647d4f8-4ebb-11f0-ac38-63efc2f700c8)  
-
-- **Machine Learning Foundations** — AWS Educate  
-  🔗 [Credly Badge](https://www.credly.com/badges/3359b0b3-96d8-47e2-a30b-6df76b133d7c/public_url)  
+- **Content Writer** | [cite_start]*TEDxYouth@Luxor STEM* (Feb 2022 - Aug 2023) [cite: 76, 77]
+  - [cite_start]Researched and created content for TEDx events, blogs, and promotional materials for STEM audiences. [cite: 78]
+  - [cite_start]Collaborated with the social media team to ensure consistent messaging aligned with TEDx branding. [cite: 79]
 
 ---
 
-## 🌐 Languages
-- **Arabic** — Native  
-- **English** — B2 (Upper-Intermediate)  
-- **German** — A1 (Elementary)  
+### 🎨 Hobbies & Interests
+
+- [cite_start]**Graphic Design:** [Check out my Behance Portfolio](https://www.behance.net/yousefsalah18) [cite: 82]
+- [cite_start]**Content Writing:** Passionate about creating impactful written content. [cite: 83]
 
 ---
 
-## 🤝 Volunteering
-**Content Writer** — TEDxYouth@Luxor STEM (Feb 2022 – Aug 2023)  
-- Created content for TEDx events, blogs & promotional material.  
-- Collaborated with social media team to ensure consistent messaging.  
+### 📊 My GitHub Stats
 
----
-
-## 🎨 Hobbies & Interests
-- **Graphic Design** — [Behance Portfolio](https://www.behance.net/f183)  
-- **Content Writing** — passionate about impactful writing for STEM & technology.  
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefSalah123&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSalah123&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
