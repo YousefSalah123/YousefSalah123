@@ -91,7 +91,7 @@ Built an end-to-end regression pipeline to predict NYC taxi trip durations. Engi
 ---
 
 #### ❤️ Heart Disease Prediction
-A machine learning model built to predict the likelihood of heart disease in patients based on a set of medical attributes.
+An end-to-end machine learning project designed to predict heart disease probability from clinical data. This repository documents the complete workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, hyperparameter tuning, and final deployment. The project culminates in an interactive Streamlit web application that provides real-time risk assessment and confidence visualizations.
 <p>
   <a href="https://github.com/YousefSalah123/heart-disease" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
