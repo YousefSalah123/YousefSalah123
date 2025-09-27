@@ -6,19 +6,18 @@
   <a href="mailto:yousefsalahnage@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yousef-salah-123/">
+  <a href="https://www.linkedin.com/in/yousef-salah-nage-a3583636b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 <h1 align="center">
-  Hey 👋, I'm Yousef Salah Nage
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey 👋, I'm Yousef Salah
 </h1>
 
 ### 👨‍💻 About Me
 
-I am a motivated Computer Science student at Cairo University specializing in Machine Learning and Artificial Intelligence. My expertise lies in Python, C++, and Java, and I have hands-on experience building end-to-end ML projects—from data preprocessing and feature engineering to model training and deployment. With a strong foundation in mathematics (linear algebra, calculus, probability), I am passionate about leveraging data to drive real-world impact. I am actively seeking opportunities like internships and research collaborations to apply my technical skills and contribute to innovative AI solutions.
+Computer Science student at Cairo University driven by a passion for using Machine Learning to create real-world impact. I have a proven ability to develop complete ML projects, from data preprocessing to final deployment. With a strong grasp of Python, C++, and the mathematical principles of AI, I am eager to contribute my skills to a forward-thinking team through an internship or research collaboration.
 
 ---
 
@@ -59,7 +58,7 @@ Developed a full-stack machine learning pipeline to predict credit card defaults
   <a href="https://github.com/YousefSalah123/Credit-Card-Default-Prediction-using-Logistic-Regression" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-  <a href="https://yousef-salah123-credit-card-default-prediction-app-q60q2h.streamlit.app/" target="_blank">
+  <a href="https://credit-card-default-prediction-using-logistic-regression-skw6g.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
@@ -78,7 +77,7 @@ Built an end-to-end regression pipeline to predict NYC taxi trip durations. Engi
   <a href="https://github.com/YousefSalah123/NYC-Taxi-Duration-Prediction" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-  <a href="https://yousef-salah123-nyc-taxi-trip-duration-prediction-app-v3kjnp.streamlit.app/" target="_blank">
+  <a href="https://nyc-taxi-duration-prediction-93j4vbvdjkwp6ds58yv92g.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
@@ -96,6 +95,9 @@ A machine learning model built to predict the likelihood of heart disease in pat
 <p>
   <a href="https://github.com/YousefSalah123/heart-disease" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://heart-disease-hfjjczmyditt8syxmwb2zv.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
 <p>
@@ -119,15 +121,15 @@ A machine learning model built to predict the likelihood of heart disease in pat
 
 - **Supervised Machine Learning: Regression and Classification**
   - *Stanford University & DeepLearning.AI (Coursera)* - Issued Jul 2025
-  - `[Verified Certificate]` (Link to your certificate)
+  - <a href="https://www.coursera.org/account/accomplishments/verify/7O3FE6LNPLHY" target="_blank">**[Verified Certificate]**</a>
 
 - **Introducing Generative AI with AWS**
   - *Udacity & Amazon Web Services (AWS)* - Issued Jul 2025
-  - `[Verified Certificate]` (Link to your certificate)
+  - <a href="https://www.udacity.com/certificate/e/7647d4f8-4ebb-11f0-ac38-63efc2f700c8" target="_blank">**[Verified Certificate]**</a>
 
 - **Machine Learning Foundations**
   - *Amazon Web Services (AWS Educate)* - Issued 2025
-  - `[Verified Certificate]` (Link to your certificate)
+  - <a href="https://www.credly.com/badges/3359b0b3-96d8-47e2-a30b-6df76b133d7c/public_url" target="_blank">**[Verified Certificate]**</a>
 
 ---
 
