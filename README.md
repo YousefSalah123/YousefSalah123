@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  Hey, I'm Yousef Salah Nage
+  Hey 👋, I'm Yousef Salah Nage
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -53,50 +53,56 @@ I am a motivated Computer Science student at Cairo University specializing in Ma
 
 ### 🚀 My Projects
 
-<table>
-<tr>
-<td width="50%">
-  <h3 align="center">Credit Card Default Prediction</h3>
-  <div align="center">
-    <p>Developed a full-stack machine learning pipeline to predict credit card defaults using a dataset of 30,000+ clients. The project involved extensive data cleaning, feature engineering, and model tuning to prioritize recall.</p>
-    <p>
-      <a href="https://github.com/Yousef-Salah123/Credit-Card-Default-Prediction" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-      </a>
-      <a href="https://yousef-salah123-credit-card-default-prediction-app-q60q2h.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
-    </p>
-  </div>
-</td>
-<td width="50%">
-  <h3 align="center">NYC Taxi Trip Duration Prediction</h3>
-  <div align="center">
-    <p>Built an end-to-end regression pipeline to predict NYC taxi trip durations. Engineered features from timestamps and GPS coordinates, including using the Haversine formula for distance calculation.</p>
-    <p>
-      <a href="https://github.com/Yousef-Salah123/NYC-Taxi-Trip-Duration-Prediction" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-      </a>
-      <a href="https://yousef-salah123-nyc-taxi-trip-duration-prediction-app-v3kjnp.streamlit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
-    </p>
-  </div>
-</td>
-</tr>
-</table>
+#### 💳 Credit Card Default Prediction
+Developed a full-stack machine learning pipeline to predict credit card defaults using a dataset of 30,000+ clients. The project involved extensive data cleaning, feature engineering, and model tuning to prioritize recall.
+<p>
+  <a href="https://github.com/YousefSalah123/Credit-Card-Default-Prediction-using-Logistic-Regression" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://yousef-salah123-credit-card-default-prediction-app-q60q2h.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
+</p>
+
+---
+
+#### 🚕 NYC Taxi Trip Duration Prediction
+Built an end-to-end regression pipeline to predict NYC taxi trip durations. Engineered features from timestamps and GPS coordinates, including using the Haversine formula for distance calculation.
+<p>
+  <a href="https://github.com/YousefSalah123/NYC-Taxi-Duration-Prediction" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="https://yousef-salah123-nyc-taxi-trip-duration-prediction-app-v3kjnp.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
+</p>
+
+---
+
+#### ❤️ Heart Disease Prediction
+A machine learning model built to predict the likelihood of heart disease in patients based on a set of medical attributes.
+<p>
+  <a href="https://github.com/YousefSalah123/heart-disease" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
+</p>
 
 ---
 
