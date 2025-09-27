@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a motivated Computer Science student at Cairo University specializing in Machine Learning and Artificial Intelligence[cite: 7]. [cite_start]My expertise lies in Python, C++, and Java, and I have hands-on experience building end-to-end ML projects—from data preprocessing and feature engineering to model training and deployment[cite: 8]. [cite_start]With a strong foundation in mathematics (linear algebra, calculus, probability) [cite: 9][cite_start], I am passionate about leveraging data to drive real-world impact[cite: 10]. [cite_start]I am actively seeking opportunities like internships and research collaborations to apply my technical skills and contribute to innovative AI solutions[cite: 10].
+I am a motivated Computer Science student at Cairo University specializing in Machine Learning and Artificial Intelligence. My expertise lies in Python, C++, and Java, and I have hands-on experience building end-to-end ML projects—from data preprocessing and feature engineering to model training and deployment. With a strong foundation in mathematics (linear algebra, calculus, probability), I am passionate about leveraging data to drive real-world impact. I am actively seeking opportunities like internships and research collaborations to apply my technical skills and contribute to innovative AI solutions.
 
 ---
 
@@ -58,7 +58,7 @@
 <td width="50%">
   <h3 align="center">Credit Card Default Prediction</h3>
   <div align="center">
-    [cite_start]<p>Developed a full-stack machine learning pipeline to predict credit card defaults using a dataset of 30,000+ clients. [cite: 20] [cite_start]The project involved extensive data cleaning, feature engineering, and model tuning to prioritize recall. [cite: 21, 23]</p>
+    <p>Developed a full-stack machine learning pipeline to predict credit card defaults using a dataset of 30,000+ clients. The project involved extensive data cleaning, feature engineering, and model tuning to prioritize recall.</p>
     <p>
       <a href="https://github.com/Yousef-Salah123/Credit-Card-Default-Prediction" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
@@ -78,7 +78,7 @@
 <td width="50%">
   <h3 align="center">NYC Taxi Trip Duration Prediction</h3>
   <div align="center">
-    [cite_start]<p>Built an end-to-end regression pipeline to predict NYC taxi trip durations. [cite: 30] [cite_start]Engineered features from timestamps and GPS coordinates, including using the Haversine formula for distance calculation. [cite: 32]</p>
+    <p>Built an end-to-end regression pipeline to predict NYC taxi trip durations. Engineered features from timestamps and GPS coordinates, including using the Haversine formula for distance calculation.</p>
     <p>
       <a href="https://github.com/Yousef-Salah123/NYC-Taxi-Trip-Duration-Prediction" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
@@ -102,49 +102,49 @@
 
 ### 🎓 Education
 
-- **Faculty of Science, Cairo University** | [cite_start]Oct 2023 - Oct 2027 [cite: 12]
-  - [cite_start]Bachelor's Degree in Computer Science [cite: 13]
-  - [cite_start]Currently in 3rd Year, ranked 1st academically in the department [cite: 14, 16]
-  - [cite_start]GPA: 3.807/5.0 [cite: 15]
+- **Faculty of Science, Cairo University** | Oct 2023 - Oct 2027
+  - Bachelor's Degree in Computer Science
+  - Currently in 3rd Year, ranked 1st academically in the department
+  - GPA: 3.807/5.0
 
 ---
 
 ### 📜 Certificates
 
-- [cite_start]**Supervised Machine Learning: Regression and Classification** [cite: 41]
-  - [cite_start]*Stanford University & DeepLearning.AI (Coursera)* - Issued Jul 2025 [cite: 42]
+- **Supervised Machine Learning: Regression and Classification**
+  - *Stanford University & DeepLearning.AI (Coursera)* - Issued Jul 2025
   - `[Verified Certificate]` (Link to your certificate)
 
-- [cite_start]**Introducing Generative AI with AWS** [cite: 47]
-  - [cite_start]*Udacity & Amazon Web Services (AWS)* - Issued Jul 2025 [cite: 48]
+- **Introducing Generative AI with AWS**
+  - *Udacity & Amazon Web Services (AWS)* - Issued Jul 2025
   - `[Verified Certificate]` (Link to your certificate)
 
-- [cite_start]**Machine Learning Foundations** [cite: 52]
-  - [cite_start]*Amazon Web Services (AWS Educate)* - Issued 2025 [cite: 53]
+- **Machine Learning Foundations**
+  - *Amazon Web Services (AWS Educate)* - Issued 2025
   - `[Verified Certificate]` (Link to your certificate)
 
 ---
 
 ### 🌐 Languages
 
-- [cite_start]**Arabic:** Native [cite: 72]
-- [cite_start]**English:** B2 (Upper-Intermediate) [cite: 73]
-- [cite_start]**German:** A1 (Elementary) [cite: 74]
+- **Arabic:** Native
+- **English:** B2 (Upper-Intermediate)
+- **German:** A1 (Elementary)
 
 ---
 
 ### 🤝 Volunteering
 
-- **Content Writer** | [cite_start]*TEDxYouth@Luxor STEM* (Feb 2022 - Aug 2023) [cite: 76, 77]
-  - [cite_start]Researched and created content for TEDx events, blogs, and promotional materials for STEM audiences. [cite: 78]
-  - [cite_start]Collaborated with the social media team to ensure consistent messaging aligned with TEDx branding. [cite: 79]
+- **Content Writer** | *TEDxYouth@Luxor STEM* (Feb 2022 - Aug 2023)
+  - Researched and created content for TEDx events, blogs, and promotional materials for STEM audiences.
+  - Collaborated with the social media team to ensure consistent messaging aligned with TEDx branding.
 
 ---
 
 ### 🎨 Hobbies & Interests
 
-- [cite_start]**Graphic Design:** [Check out my Behance Portfolio](https://www.behance.net/yousefsalah18) [cite: 82]
-- [cite_start]**Content Writing:** Passionate about creating impactful written content. [cite: 83]
+- **Graphic Design:** [Check out my Behance Portfolio](https://www.behance.net/yousefsalah18)
+- **Content Writing:** Passionate about creating impactful written content.
 
 ---
 
