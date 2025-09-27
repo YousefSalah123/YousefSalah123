@@ -148,10 +148,11 @@ I am a motivated Computer Science student at Cairo University specializing in Ma
 
 ---
 
-### 📊 My GitHub Stats
-
+📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yousef-Salah123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Salah123&layout=compact&langs_count=8&theme=dracula"/>
 </p>
