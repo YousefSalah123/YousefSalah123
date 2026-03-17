@@ -135,8 +135,8 @@ AI-driven game experiment exploring reinforcement learning in real-time environm
 ![RL](https://img.shields.io/badge/Reinforcement_Learning-7B2FBE?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-grey?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YousefSalah123)
-[![Download](https://img.shields.io/badge/Download_Game-00D4FF?style=flat-square&logoColor=white)](https://github.com/YousefSalah123)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)]((https://github.com/YousefSalah123/AIR--Space-Shooter-Game-Project))
+[![Download](https://img.shields.io/badge/Download_Game-00D4FF?style=flat-square&logoColor=white)]((https://github.com/YousefSalah123/AIR--Space-Shooter-Game-Project/releases/tag/v1.0))
 
 </td>
 <td width="50%" valign="top">
