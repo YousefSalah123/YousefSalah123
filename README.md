@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yousef%20Salah%20Nage&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20ML%20%26%20Backend%20Systems&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yousef%20Salah%20Nage&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20ML%20%26%20Backend%20Systems&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;MERN+Stack+Developer;End-to-End+System+Builder;Available+for+Freelance)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=580&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%94%A5;End-to-End+System+Builder+%F0%9F%9A%80;Available+for+Freelance+%F0%9F%9F%A2)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm an AI Systems Engineer focused on building **production-ready applications** powered by **Machine Learning**.
+I'm an AI Systems Engineer focused on building **production-ready applications** powered by **machine learning**.
 
 My work combines **data pipelines**, **machine learning models**, and **scalable backend APIs** to create complete software systems — not just isolated notebooks.
 
@@ -54,9 +54,9 @@ I build end-to-end products — from raw data to deployed applications.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logoColor=white)
-![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-7B2FBE?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-7B2FBE?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🌐 Full Stack
+### 🌐 Full-Stack (MERN)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -70,7 +70,7 @@ I build end-to-end products — from raw data to deployed applications.
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -87,9 +87,9 @@ I build end-to-end products — from raw data to deployed applications.
 ### ❤️ Heart Disease Risk Prediction
 **End-to-End ML Platform**
 
-End-to-end ML system predicting cardiovascular risk using clinical datasets. Full pipeline from data preprocessing to a deployed Streamlit web app with real-time confidence visualization.
+End-to-end ML platform predicting cardiovascular risk using clinical datasets. Full pipeline from data preprocessing to a deployed Streamlit web app with real-time confidence visualization.
 
-**Results:** `87.5% Accuracy` &nbsp;·&nbsp; `0.906 ROC AUC`
+**Results:** `87.5% Accuracy` &nbsp;·&nbsp; `0.906 ROC AUC` &nbsp;·&nbsp; `Threshold-Tuned SVC`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -106,9 +106,9 @@ End-to-end ML system predicting cardiovascular risk using clinical datasets. Ful
 ### 💳 Credit Card Default Risk
 **Financial ML Pipeline**
 
-Machine learning pipeline for financial risk prediction built on 30,000+ real client records. Recall-optimized to minimize false negatives and reduce financial losses.
+Financial ML pipeline predicting credit default risk from 30,000+ real client records. Recall-optimized model design to minimize false negatives and reduce financial exposure.
 
-**Results:** `65% Recall` &nbsp;·&nbsp; `30k+ Records Processed`
+**Results:** `65% Recall` &nbsp;·&nbsp; `30k+ Records` &nbsp;·&nbsp; `Deployed Risk Dashboard`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -124,11 +124,11 @@ Machine learning pipeline for financial risk prediction built on 30,000+ real cl
 <td width="50%" valign="top">
 
 ### 🎮 Galactic Air Mission
-**2D Game Engine & AI**
+**AI-Driven Game Experiment**
 
-AI-driven game experiment exploring reinforcement learning in real-time environments. Built on a custom 2D Java/JOGL engine with intelligent NPC behavior.
+AI-driven game experiment exploring reinforcement learning in real-time environments. Custom 2D engine built from scratch in Java/JOGL — no commercial engines — with an RL-powered autonomous co-pilot for intelligent NPC behavior.
 
-**Results:** `Custom Physics Engine` &nbsp;·&nbsp; `Real-time RL AI`
+**Results:** `Custom Physics Engine` &nbsp;·&nbsp; `Real-time RL AI` &nbsp;·&nbsp; `Full JOGL Pipeline`
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JOGL](https://img.shields.io/badge/JOGL-00599C?style=flat-square)
@@ -144,9 +144,9 @@ AI-driven game experiment exploring reinforcement learning in real-time environm
 ### 🚕 NYC Taxi Duration Prediction
 **Regression ML Pipeline**
 
-Regression model predicting taxi trip duration from 1.5M+ historical trips. Feature-engineered GPS and timestamp data using the Haversine formula for precise distance calculation.
+Regression model predicting trip duration from 1.5M+ historical taxi trips. Feature-engineered GPS coordinates and timestamp data using the Haversine formula for precise distance calculation.
 
-**Results:** `1.5M+ Trips` &nbsp;·&nbsp; `Deployed on Streamlit Cloud`
+**Results:** `1.5M+ Trips Processed` &nbsp;·&nbsp; `Deployed on Streamlit Cloud`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -172,7 +172,7 @@ Regression model predicting taxi trip duration from 1.5M+ historical trips. Feat
 ![Status](https://img.shields.io/badge/Status-In_Development-FF6B6B?style=flat-square)
 ![Type](https://img.shields.io/badge/Computer_Vision-00D4FF?style=flat-square)
 
-Computer vision system detecting road damage using YOLO with a real-time detection pipeline. Leading model architecture and training workflow design.
+Computer vision system detecting road damage and obstacles in real-time using YOLO object detection. Leading AI team on model architecture, training pipeline, and dataset engineering.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00D4FF?style=flat-square)
@@ -185,7 +185,7 @@ Computer vision system detecting road damage using YOLO with a real-time detecti
 ![Status](https://img.shields.io/badge/Status-In_Development-FF6B6B?style=flat-square)
 ![Type](https://img.shields.io/badge/Backend_Platform-47A248?style=flat-square)
 
-Task and team management platform with role-based access and a scalable Node.js + MongoDB backend with full authentication and clean REST APIs.
+Task and team management platform with role-based access control and a scalable REST API. Full authentication system built with Node.js, Express, and MongoDB.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -203,7 +203,7 @@ Task and team management platform with role-based access and a scalable Node.js 
 |---|---|:---:|---|
 | **ML Specialization** *(Supervised · Neural Networks · Unsupervised)* | Stanford & DeepLearning.AI | 115h | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/7O3FE6LNPLHY) |
 | **DEPI AI & ML Track** *(Deep Learning · CV · NLP)* | MCIT Egypt | 200h | — |
-| **Introducing GenAI with AWS** | Udacity | 20h | [Verify ↗](https://www.udacity.com/certificate/e/7647d4f8-4ebb-11f0-ac38-63efc2f700c8) |
+| **Introducing GenAI with AWS** | Udacity & Amazon Web Services | 20h | [Verify ↗](https://www.udacity.com/certificate/e/7647d4f8-4ebb-11f0-ac38-63efc2f700c8) |
 | **ML Foundations** | AWS Educate | 35h | [Verify ↗](https://www.credly.com/badges/3359b0b3-96d8-47e2-a30b-6df76b133d7c/public_url) |
 | **AI & ML Summer Camp** | Sprints × Microsoft | 40h | — |
 
@@ -214,17 +214,47 @@ Task and team management platform with role-based access and a scalable Node.js 
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YousefSalah123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&cache_seconds=1800"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSalah123&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&cache_seconds=1800"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSalah123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&hide=jupyter%20notebook"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YousefSalah123&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=ffffff&dates=888888" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YousefSalah123&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=ffffff&dates=888888" width="65%"/>
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=YousefSalah123&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8"/>
 
 </div>
+
+---
+
+## 📈 Activity Dashboard
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YousefSalah123&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="95%"/>
+</p>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Favorite_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20Systems-00D4FF?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20ML-FF6B6B?style=for-the-badge)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YousefSalah123/YousefSalah123/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</p>
 
 ---
 
@@ -242,10 +272,12 @@ Task and team management platform with role-based access and a scalable Node.js 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YousefSalah123&color=00D4FF&style=for-the-badge&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YousefSalah123&label=Profile%20Views&color=00D4FF&style=for-the-badge"/>
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
 
 </div>
