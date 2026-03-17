@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yousef%20Salah%20Nage&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yousef%20Salah%20Nage&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20ML%20%26%20Backend%20Systems&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=550&lines=AI+%26+ML+Engineer+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%94%A5;End-to-End+System+Builder+%F0%9F%9A%80;Available+for+Freelance+%F0%9F%9F%A2)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;MERN+Stack+Developer;End-to-End+System+Builder;Available+for+Freelance)
 
 </div>
 
@@ -23,10 +23,13 @@
 
 ## 👋 About Me
 
-I'm an AI Systems Engineer focused on building **production-ready applications** powered by machine learning.
+I'm an AI Systems Engineer focused on building **production-ready applications** powered by **Machine Learning**.
+
 My work combines **data pipelines**, **machine learning models**, and **scalable backend APIs** to create complete software systems — not just isolated notebooks.
 
-I mainly work with **Python** for machine learning and **Node.js / the MERN stack** for backend and full-stack development. I take full ownership of what I ship — from the first line of code to the deployed product.
+I mainly work with **Python** for machine learning and **Node.js / the MERN Stack** for backend and full-stack systems.
+
+I build end-to-end products — from raw data to deployed applications.
 
 🎓 **Cairo University** — B.Sc. Computer Science &nbsp;|&nbsp; **Ranked #1 in CS Department** &nbsp;|&nbsp; GPA: 3.845/5.0
 🏆 **Distinction with Honors** &nbsp;|&nbsp; MCIT/DEPI Scholarship — AI & ML Track
@@ -51,9 +54,9 @@ I mainly work with **Python** for machine learning and **Node.js / the MERN stac
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-7B2FBE?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-7B2FBE?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🌐 Full-Stack (MERN)
+### 🌐 Full Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -123,7 +126,7 @@ Machine learning pipeline for financial risk prediction built on 30,000+ real cl
 ### 🎮 Galactic Air Mission
 **2D Game Engine & AI**
 
-Custom-built 2D game engine from scratch in Java/JOGL — zero commercial engines used. Integrated a reinforcement learning co-pilot for intelligent real-time NPC behavior.
+AI-driven game experiment exploring reinforcement learning in real-time environments. Built on a custom 2D Java/JOGL engine with intelligent NPC behavior.
 
 **Results:** `Custom Physics Engine` &nbsp;·&nbsp; `Real-time RL AI`
 
@@ -169,7 +172,7 @@ Regression model predicting taxi trip duration from 1.5M+ historical trips. Feat
 ![Status](https://img.shields.io/badge/Status-In_Development-FF6B6B?style=flat-square)
 ![Type](https://img.shields.io/badge/Computer_Vision-00D4FF?style=flat-square)
 
-Computer vision project detecting road damage and obstacles in real-time using YOLO object detection. Leading the AI team on model architecture and training pipeline design.
+Computer vision system detecting road damage using YOLO with a real-time detection pipeline. Leading model architecture and training workflow design.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00D4FF?style=flat-square)
@@ -182,7 +185,7 @@ Computer vision project detecting road damage and obstacles in real-time using Y
 ![Status](https://img.shields.io/badge/Status-In_Development-FF6B6B?style=flat-square)
 ![Type](https://img.shields.io/badge/Backend_Platform-47A248?style=flat-square)
 
-Task and team management platform with role-based access control, real-time updates, and a clean REST API. Scalable Node.js + MongoDB backend with full authentication system.
+Task and team management platform with role-based access and a scalable Node.js + MongoDB backend with full authentication and clean REST APIs.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -200,7 +203,7 @@ Task and team management platform with role-based access control, real-time upda
 |---|---|:---:|---|
 | **ML Specialization** *(Supervised · Neural Networks · Unsupervised)* | Stanford & DeepLearning.AI | 115h | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/7O3FE6LNPLHY) |
 | **DEPI AI & ML Track** *(Deep Learning · CV · NLP)* | MCIT Egypt | 200h | — |
-| **Introducing GenAI with AWS** | Udacity & Amazon Web Services | 20h | [Verify ↗](https://www.udacity.com/certificate/e/7647d4f8-4ebb-11f0-ac38-63efc2f700c8) |
+| **Introducing GenAI with AWS** | Udacity | 20h | [Verify ↗](https://www.udacity.com/certificate/e/7647d4f8-4ebb-11f0-ac38-63efc2f700c8) |
 | **ML Foundations** | AWS Educate | 35h | [Verify ↗](https://www.credly.com/badges/3359b0b3-96d8-47e2-a30b-6df76b133d7c/public_url) |
 | **AI & ML Summer Camp** | Sprints × Microsoft | 40h | — |
 
@@ -210,8 +213,8 @@ Task and team management platform with role-based access control, real-time upda
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YousefSalah123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSalah123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YousefSalah123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&cache_seconds=1800"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSalah123&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&cache_seconds=1800"/>
 
 <br/>
 
