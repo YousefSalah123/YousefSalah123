@@ -247,18 +247,12 @@ Task and team management platform with role-based access control and a scalable 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YousefSalah123/YousefSalah123/output/snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousefSalah123/YousefSalah123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousefSalah123/YousefSalah123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YousefSalah123/YousefSalah123/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-</p>
-
----
-
-<div align="center">
 
 ## 🤝 Let's Build Something Intelligent
 
