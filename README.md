@@ -1,165 +1,237 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+
+```
+██╗   ██╗███████╗███╗   ██╗
+╚██╗ ██╔╝██╔════╝████╗  ██║
+ ╚████╔╝ ███████╗██╔██╗ ██║
+  ╚██╔╝  ╚════██║██║╚██╗██║
+   ██║   ███████║██║ ╚████║
+   ╚═╝   ╚══════╝╚═╝  ╚═══╝
+```
+
 </div>
 
-<div id="badges" align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Building+Intelligent+Systems+from+the+Ground+Up;End-to-End+ML+%7C+Backend+%7C+Full-Stack;Available+for+Freelance+%F0%9F%9F%A2" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="mailto:yousefsalahnage@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yousef-salah-nage-a3583636b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ysn-forge.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/yousefsalah18">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </div>
 
-<h1 align="center">
-  Hey 👋, I'm Yousef Salah
-</h1>
-
-### 👨‍💻 About Me
-
-Computer Science student at Cairo University driven by a passion for using Machine Learning to create real-world impact. I have a proven ability to develop complete ML projects, from data preprocessing to final deployment. With a strong grasp of Python, C++, and the mathematical principles of AI, I am eager to contribute my skills to a forward-thinking team through an internship or research collaboration.
+<br/>
 
 ---
 
-### 🛠️ My Skills
+## `> whoami`
 
-#### 💻 Programming & Concepts
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures-orange?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-red?style=for-the-badge)
+```python
+yousef = {
+    "name"      : "Yousef Salah Nage",
+    "role"      : "AI Systems Engineer & Full-Stack Developer",
+    "education" : "B.Sc. Computer Science @ Cairo University",
+    "rank"      : "#1 in CS Department | GPA: 3.845/5.0 | Distinction with Honors",
+    "location"  : "Qalyubia, Egypt",
+    "status"    : "🟢 Available for Freelance",
+    "building"  : ["RoadEye (YOLO Object Detection)", "Nazamly (Backend Platform)"],
+    "focus"     : "End-to-end AI systems — from raw data to deployed products"
+}
+```
 
-#### 📊 Data Analysis & Machine Learning
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-
-#### ⚙️ Tools & Other Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=qt&logoColor=white)
+> I don't just build models. I build **complete systems** — data pipelines, ML models, scalable APIs, and deployed web apps. I write clean code and take full ownership of what I ship.
 
 ---
 
-### 🚀 My Projects
+## `> tech_stack --list`
 
-#### 💳 Credit Card Default Prediction
-Developed a full-stack machine learning pipeline to predict credit card defaults using a dataset of 30,000+ clients. The project involved extensive data cleaning, feature engineering, and model tuning to prioritize recall.
-<p>
-  <a href="https://github.com/YousefSalah123/Credit-Card-Default-Prediction-using-Logistic-Regression" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="https://credit-card-default-prediction-using-logistic-regression-skw6g.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
-  </a>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
-</p>
+<div align="center">
 
----
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO_(CV)-00D4FF?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-8A2BE2?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-SVM-grey?style=flat-square)
 
-#### 🚕 NYC Taxi Trip Duration Prediction
-Built an end-to-end regression pipeline to predict NYC taxi trip durations. Engineered features from timestamps and GPS coordinates, including using the Haversine formula for distance calculation.
-<p>
-  <a href="https://github.com/YousefSalah123/NYC-Taxi-Duration-Prediction" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="https://nyc-taxi-duration-prediction-93j4vbvdjkwp6ds58yv92g.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
-  </a>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" alt="streamlit"/>
-</p>
+### 🔧 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00D4FF?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Full-Stack (MERN)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-#### ❤️ Heart Disease Prediction
-An end-to-end machine learning project designed to predict heart disease probability from clinical data. This repository documents the complete workflow, including data cleaning, exploratory data analysis (EDA), feature engineering, hyperparameter tuning, and final deployment. The project culminates in an interactive Streamlit web application that provides real-time risk assessment and confidence visualizations.
-<p>
-  <a href="https://github.com/YousefSalah123/heart-disease" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="https://heart-disease-hfjjczmyditt8syxmwb2zv.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Live Demo"/>
-  </a>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
-</p>
+## `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### ❤️ Heart Disease Risk Prediction
+**End-to-End ML Platform**
+
+> Clinicians needed fast, data-driven cardiovascular risk tools. Built a complete ML pipeline deployed as a live Streamlit app.
+
+**Results:** `87.5% Accuracy` · `0.906 ROC AUC` · `Threshold-Tuned SVC`
+
+**Stack:** `Python` `Scikit-learn` `XGBoost` `PCA` `SVM` `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/YousefSalah123/heart-disease)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://heart-disease-hfjjczmyditt8syxmwb2zv.streamlit.app/)
+
+</td>
+<td width="50%">
+
+### 💳 Credit Card Default Risk
+**Financial ML Pipeline**
+
+> Banks lose millions from undetected defaults. Built a recall-optimized model from 30k+ real client records.
+
+**Results:** `65% Recall` · `30k+ records` · `Deployed Risk Dashboard`
+
+**Stack:** `Python` `Scikit-learn` `Pandas` `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/YousefSalah123/Credit-Card-Default-Prediction-using-Logistic-Regression)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://credit-card-default-prediction-using-logistic-regression-skw6g.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Galactic Air Mission
+**2D Game Engine & AI**
+
+> Exploring how RL can power real-time game AI with a custom-built physics engine — zero commercial tools used.
+
+**Results:** `Custom physics engine` · `Real-time RL co-pilot` · `Full JOGL rendering pipeline`
+
+**Stack:** `Java` `JOGL` `Reinforcement Learning` `OOP`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/YousefSalah123)
+[![Download](https://img.shields.io/badge/Download_Game-00D4FF?style=flat-square)](https://github.com/YousefSalah123)
+
+</td>
+<td width="50%">
+
+### 🚕 NYC Taxi Duration Prediction
+**Regression ML Pipeline**
+
+> Feature-engineered GPS + timestamp data using the Haversine formula to predict real-world taxi trip durations.
+
+**Results:** `End-to-end regression pipeline` · `Deployed on Streamlit Cloud`
+
+**Stack:** `Python` `Scikit-learn` `Pandas` `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/YousefSalah123/NYC-Taxi-Duration-Prediction)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://nyc-taxi-duration-prediction-93j4vbvdjkwp6ds58yv92g.streamlit.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Education
+## `> cat currently_building.log`
 
-- **Faculty of Science, Cairo University** | Oct 2023 - Oct 2027
-  - Bachelor's Degree in Computer Science
-  - Currently in 3rd Year, ranked 1st academically in the department
-  - GPA: 3.807/5.0
+```
+[ACTIVE] RoadEye .............. Computer Vision | YOLO object detection pipeline
+                                 Role: AI Team Lead — model architecture & training
+                                 Status: In development 🔄
 
----
-
-### 📜 Certificates
-
-- **Supervised Machine Learning: Regression and Classification**
-  - *Stanford University & DeepLearning.AI (Coursera)* - Issued Jul 2025
-  - <a href="https://www.coursera.org/account/accomplishments/verify/7O3FE6LNPLHY" target="_blank">**[Verified Certificate]**</a>
-
-- **Introducing Generative AI with AWS**
-  - *Udacity & Amazon Web Services (AWS)* - Issued Jul 2025
-  - <a href="https://www.udacity.com/certificate/e/7647d4f8-4ebb-11f0-ac38-63efc2f700c8" target="_blank">**[Verified Certificate]**</a>
-
-- **Machine Learning Foundations**
-  - *Amazon Web Services (AWS Educate)* - Issued 2025
-  - <a href="https://www.credly.com/badges/3359b0b3-96d8-47e2-a30b-6df76b133d7c/public_url" target="_blank">**[Verified Certificate]**</a>
+[ACTIVE] Nazamly .............. Backend Platform | Node.js + MongoDB
+                                 Role: Backend Architect — REST APIs, system design
+                                 Status: In development 🔄
+```
 
 ---
 
-### 🌐 Languages
+## `> cat credentials.txt`
 
-- **Arabic:** Native
-- **English:** B2 (Upper-Intermediate)
-- **German:** A1 (Elementary)
-
----
-
-### 🤝 Volunteering
-
-- **Content Writer** | *TEDxYouth@Luxor STEM* (Feb 2022 - Aug 2023)
-  - Researched and created content for TEDx events, blogs, and promotional materials for STEM audiences.
-  - Collaborated with the social media team to ensure consistent messaging aligned with TEDx branding.
+| 🏆 Credential | 🏛️ Issuer | ⏱️ Hours |
+|---|---|---|
+| **ML Specialization** *(Supervised, Neural Networks, Unsupervised)* | Stanford & DeepLearning.AI | 115h |
+| **DEPI AI & ML Track** *(Deep Learning, CV, NLP)* | MCIT Egypt | 200h |
+| **Introducing GenAI with AWS** | Udacity & AWS | 20h |
+| **ML Foundations** | AWS Educate | 35h |
+| **AI & ML Summer Camp** | Sprints × Microsoft | 40h |
 
 ---
 
-### 🎨 Hobbies & Interests
+## `> github_stats --verbose`
 
-- **Graphic Design:** [Check out my Behance Portfolio](https://www.behance.net/yousefsalah18)
-- **Content Writing:** Passionate about creating impactful written content.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YousefSalah123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSalah123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousefSalah123&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+## `> cat education.md`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefSalah123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSalah123&layout=compact&langs_count=8&theme=dracula"/>
-</p>
+**Cairo University** — Faculty of Science
+`B.Sc. Computer Science` | Oct 2023 → Oct 2027
+
+- 🥇 **Ranked #1** in CS Department
+- 📊 **GPA:** 3.845 / 5.0 — *Distinction with Honors*
+- 🎓 Currently in Year 3
+
+---
+
+<div align="center">
+
+### `> echo "Let's build something intelligent."`
+
+**Open to freelance projects & remote opportunities**
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white)](https://ysn-forge.lovable.app)
+[![Email](https://img.shields.io/badge/yousefsalahnage@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefsalahnage@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-salah-nage-a3583636b/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YousefSalah123&color=00D4FF&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2026 Yousef Salah Nage · Crafted with precision.</sub>
+</div>
